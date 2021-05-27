@@ -1,3 +1,6 @@
+[forked for my reference]
+
+
 # cfj
 
 An example of calling Clojure from Java by defining a set of Java interfaces,
